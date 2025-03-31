@@ -1,6 +1,7 @@
-name = "schedule-app-misacanetr"
-compatibility_date = "2025-04-01"
-
-[build]
-command = ""
-# ...
+{
+  "name": "schedule-app-misacanet",
+  "compatibility_date": "2025-04-01",
+  "build": {
+    "command": ""
+  }
+}
